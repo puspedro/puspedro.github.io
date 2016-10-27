@@ -1,0 +1,45 @@
+.jumbotron {
+	text-align: center;
+	background: url(background1.jpeg);
+	background-size: cover;
+}
+.social-icons a {
+	color: black;
+	margin-top: 0 auto;
+}
+
+.footer {
+	background-color: whitesmoke;
+}
+
+span {
+	border: 2px solid-white;
+}
+
+.image-circle {
+	image-width: 500px;
+	border-radius: 200px;
+}
+
+.bg-2 { 
+    background-color: whitesmoke;
+    color: #000000;
+}
+.container-fluid1 {
+	margin-bottom: 30px;
+}
+
+.row1 {
+	margin-top: 30px;
+}
+
+.img-responsive {
+	padding: 10px 0px 0px 0px;
+}
+
+.img-responsive1 {
+	padding: 0px 0px 20px 0px;
+}
+.container {
+	background-color: #e0edfb;
+}
